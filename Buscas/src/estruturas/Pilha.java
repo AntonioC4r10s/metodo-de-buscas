@@ -52,7 +52,7 @@ public class Pilha {
         return (topo == tamanho - 1);
     }
     
-    public static void main(String args[]) {
+/*    public static void main(String args[]) {
         Pilha pilha = new Pilha(5);
         Mapa mapa = new Mapa();
         
@@ -75,7 +75,7 @@ public class Pilha {
         }
         
         System.out.println(pilha.getTopo().getNome());
-    }
+    }*/
 }
 
 

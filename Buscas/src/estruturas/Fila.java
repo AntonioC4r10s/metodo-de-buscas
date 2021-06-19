@@ -72,7 +72,7 @@ public class Fila {
         return numeroElementos;
     }
     
-    public static void main(String args[]) {
+/*    public static void main(String args[]) {
         Fila fila = new Fila(5);
         Mapa mapa = new Mapa();//acesso a todas as cidades
         
@@ -91,5 +91,5 @@ public class Fila {
         fila.enfileirar(mapa.getPortoUniao());
         
         System.out.println(fila.getPrimeiro().getNome());
-    }
+    }*/
 }
