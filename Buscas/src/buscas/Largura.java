@@ -55,6 +55,7 @@ public class Largura {
     public static void main(String args[]) {
         Mapa mapa = new Mapa();
         Largura l = new Largura(mapa.getArad(), mapa.getBuscharest());
+        System.out.println("Busca por largura\n");
         l.buscar();
     }
 }
